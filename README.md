@@ -1,7 +1,10 @@
 ## Hi there 👋
- 🔭 I’m currently working on studys to build my skills in data science and python
+my name is Aditya, and i'am studying in KLE engineering college, chikodi 
+
+  I’m currently working on learning to build my skills in data science and python
 - I recently build AI video Assistant to help vedio to text translate and eny questions about vedio you can ask , you can share to audio file like group meetings , check it here[https://github.com/AdityaHubballi/AI-Video-Assistant.git]
-- 👯 I’m looking to collaborate on 
+- Fun fact , I also an video editor, not a professional 
+-  I’m looking to collaborate on 
 <!--
 **AdityaHubballi/AdityaHubballi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
